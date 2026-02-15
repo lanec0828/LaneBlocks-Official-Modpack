@@ -3,7 +3,7 @@
 ## How to install:
 
 ### 1) Install Prism Launcher
-- download the latest Prism Launcher for your OS from https://prismlauncher.org/ and install the app.
+- download the latest Prism Launcher for your OS from https://prismlauncher.org/download/ and install the app.
 
 ### 2) Import the modpack into Prism Launcher 
 - Download The .Zip File From `Releases`

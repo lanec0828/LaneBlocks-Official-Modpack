@@ -25,4 +25,4 @@ WIP (work in progress)
 sorry, but we have no way to make it work yet
 
 ## Eaglercraft
-sorry, but we have no way to make it work <span style="font-size: larger;">Your text here</span>
+sorry, but we have no way to make it work <span style="font-size: large;">EVER</span>

@@ -12,11 +12,12 @@
 - Download The .Zip File From `Releases`
 - Drag The .Zip into Prism Launcher
 
-### Troubleshooting
+## Modrinth
+- download the latest Modrinth APP for your OS from https://modrinth.com/app and install the app.
 
-- If the instance fails to start, try to restart Prism Launcher or Update If applicable
-- Ensure you are connected to the interwebs
-- If you see crashes, plaese report at the Issues Tab
+### 2) Import the modpack into Modrinth
+- Download The .mrpack File From `Releases`
+- double click the .mrpack file
 
 ## Vanilla launcher
 WIP (work in progress)
@@ -25,4 +26,11 @@ WIP (work in progress)
 sorry, but we have no way to make it work yet
 
 ## Eaglercraft
-sorry, but we have no way to make it work EVER
+sorry, but we have no way to make it work yet
+
+## Troubleshooting
+
+- If the instance fails to start, try to restart Your Lanucher or Update If applicable
+- Ensure you are connected to the internet
+- If you see crashes, plaese report at the Issues Tab
+

@@ -1,4 +1,7 @@
 # LaneBlocks Official Modpack
+## this is the official LaneBlocks Minecraft Server Modpack, built for performance and Compatability with our Unique Rules
+
+# Installation Guide
 
 ## Prism Launcher
 
